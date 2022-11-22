@@ -1,0 +1,16 @@
+D:\Hoagg\Workspace\C sharp\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+D:\Hoagg\Workspace\C sharp\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+D:\Hoagg\Workspace\C sharp\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+D:\Hoagg\Workspace\C sharp\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.AssemblyReference.cache
+D:\Hoagg\Workspace\C sharp\QLBanHang\QLBanHang\obj\Debug\QLBanHang.f_SanPham.resources
+D:\Hoagg\Workspace\C sharp\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+D:\Hoagg\Workspace\C sharp\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.cache
+D:\Hoagg\Workspace\C sharp\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.CoreCompileInputs.cache
+D:\Hoagg\Workspace\C sharp\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+D:\Hoagg\Workspace\C sharp\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+D:\Hoagg\Workspace\C sharp\QLBanhang\QLBanHang\bin\Debug\EntityFramework.dll
+D:\Hoagg\Workspace\C sharp\QLBanhang\QLBanHang\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoagg\Workspace\C sharp\QLBanhang\QLBanHang\bin\Debug\EntityFramework.xml
+D:\Hoagg\Workspace\C sharp\QLBanhang\QLBanHang\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoagg\Workspace\C sharp\QLBanhang\QLBanHang\obj\Debug\QLBanHang.csproj.CopyComplete
+D:\Hoagg\Workspace\C sharp\QLBanhang\QLBanHang\obj\Debug\QLBanHang.f_DangNhap.resources
